@@ -1,1 +1,2 @@
 jupyter sparqlkernel install --user
+conda install python-graphviz
